@@ -1,0 +1,6 @@
+N 5
+S 0.0c c 0.08c black 0.5p 0.5c M3.0
+S 0.0c c 0.16c black 0.5p 0.5c M4.0
+S 0.0c c 0.32c black 0.5p 0.5c M5.0
+S 0.0c c 0.64c black 0.5p 0.5c M6.0
+S 0.0c c 1.28c black 0.5p 0.8c M7.0
